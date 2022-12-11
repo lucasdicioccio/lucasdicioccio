@@ -1,1 +1,4 @@
-I am rebooting my website. This is a placeholder page for my temp-blog.
+I'm a product-minded engineer/scientist.
+
+- I recently rebooted my website/blog at [github-pages](https://lucasdicioccio.github.io/)
+- my blog-generator engine [is open sourced](https://kitchensink-tech.github.io/)
